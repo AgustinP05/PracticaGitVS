@@ -8,6 +8,9 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Se realiza un cambio en la rama Desarrollo y se intenta crearla.\n";
     std::cout << "Ahora probemos!\n";
+
+    //Funcionalidad de Administrador para crear un usuario
+    std::cout << "Usuario creado!\n";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
