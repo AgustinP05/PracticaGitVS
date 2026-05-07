@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Se realiza un cambio en la rama Desarrollo y se intenta crearla.\n";
+    std::cout << "Ahora probemos!\n";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
