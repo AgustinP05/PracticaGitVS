@@ -11,6 +11,10 @@ int main()
 
     //Funcionalidad de Administrador para crear un usuario
     std::cout << "Usuario creado!\n";
+    
+    //Funcionalidad de Vendedor para crear un cliente
+    std::cout << "Cliente creado!\n";
+
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
